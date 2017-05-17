@@ -2,7 +2,7 @@
 
 In this document, basic information about active directory is given first and then recommended steps for tightening are explained. Powershell Scripts are written for the steps that can be performed. The document has not been written for any commercial purposes and has benefited from many sources. You can review the relevant document [from the wiki] (https://github.com/erhaanturan/active-directory-hardening/wiki).
 
-[VM linki](https://drive.google.com/open?id=0B2OSsuzfyXIWSTJMNU12MWJyRFE)
+[VM link](https://drive.google.com/open?id=0B2OSsuzfyXIWSTJMNU12MWJyRFE)
 You can run sample script from desktop
 
 There are also some [scripts here] (https://drive.google.com/open?id=0B2OSsuzfyXIWNzZNaWJpRzhrdnc) that I wrote in the compression guide.
